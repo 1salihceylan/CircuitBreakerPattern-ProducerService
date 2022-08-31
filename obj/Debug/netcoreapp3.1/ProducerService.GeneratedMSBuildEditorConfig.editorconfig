@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ProducerService
+build_property.ProjectDir = C:\SampleProjects\Polly Patterns\ProducerService\ProducerService\ProducerService\
